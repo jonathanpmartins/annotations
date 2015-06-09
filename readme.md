@@ -1,3 +1,5 @@
+# Test Mode ON
+
 ## Annotations for The Laravel Framework
 
 [![Build Status](https://travis-ci.org/LaravelCollective/annotations.svg)](https://travis-ci.org/LaravelCollective/annotations)

@@ -5,6 +5,10 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Jonathan Martins",
+            "email": "web@jonathanmartins.com.br"
+        },
+        {
             "name": "Adam Engebretson",
             "email": "adam@enge.me"
         },
